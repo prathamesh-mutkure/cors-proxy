@@ -4,6 +4,7 @@
   "description": "Proxy server to workaround CORS error",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Prathamesh Mutkure",
